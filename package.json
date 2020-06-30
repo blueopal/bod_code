@@ -1,0 +1,39 @@
+{
+  "name": "bod_code",
+  "version": "1.0.0",
+  "description": "Selenium WebDriverio test scripts",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "author": "Blue Opal Design, Inc.",
+  "license": "WTFPL",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.27.0",
+    "npm": "^6.14.5",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "async": "^3.2.0",
+    "chai": "^4.2.0",
+    "currency": "^4.1.0",
+    "currency-formatter": "^1.5.5",
+    "eval": "^0.1.4",
+    "fs": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.2.2",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "object-diff": "0.0.4",
+    "pngjs": "^5.0.0",
+    "wdio": "^4.0.0",
+    "wdio-dot-reporter": "0.0.10",
+    "wdio-html-format-reporter": "^0.4.0",
+    "wdio-junit-reporter": "^0.4.4",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-mochawesome-reporter": "^4.0.0",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "wdio-spec-reporter": "^0.1.5"
+  }
+}
